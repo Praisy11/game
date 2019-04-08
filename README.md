@@ -1,5 +1,7 @@
 # Clicky-Game
 The Clicky Game App, is a memory game app build with React. This app will break your application's UI into components, manage component state, and respond to user events.
+![screen](https://user-images.githubusercontent.com/44099789/55731008-664ab400-59e7-11e9-8a3b-304bcd1c513e.PNG)
+
 # How the App works
 -A new React application using Create React App.
 
