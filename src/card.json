@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "animal-duck",
+    "image": "animal-duck.png",
+    "clicked":false
+  },
+  {
+    "id": 2,
+    "name": "bear-fearsome",
+    "image": "bear-fearsome.png",
+    "clicked":false
+  },
+  {
+    "id": 3,
+    "name": "bee",
+    "image": "bee.png",
+    "clicked":false
+  },
+  {
+    "id": 4,
+    "name": "bird-pirate",
+    "image": "bird-pirate.png",
+    "clicked":false
+  },
+  {
+    "id": 5,
+    "name": "cartoon-robo",
+    "image": "cartoon-robo.png",
+    "clicked":false
+  },
+  {
+    "id": 6,
+    "name": "chicken-mascot",
+    "image": "chicken-mascot.png",
+    "clicked":false
+  },
+  {
+    "id": 7,
+    "name": "coffee-owl",
+    "image": "coffee-owl.png",
+    "clicked":false
+  },
+  {
+    "id": 8,
+    "name": "jake-face",
+    "image": "jake-face.png",
+    "clicked":false
+  },
+  {
+    "id": 9,
+    "name": "monster-headfone",
+    "image": "monster-headfone.png",
+    "clicked":false
+  },
+  {
+    "id": 10,
+    "name": "sbob",
+    "image": "sbob.png",
+    "clicked":false
+  },
+  {
+    "id": 11,
+    "name": "simpson",
+    "image": "simpson.png",
+    "clicked":false
+  },
+  {
+    "id": 12,
+    "name": "sketch",
+    "image": "sketch.png",
+    "clicked":false
+  }
+]
